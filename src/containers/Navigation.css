@@ -1,0 +1,11 @@
+.nav{
+    display:flex;
+    justify-content: space-around;
+    height:60px;
+    text-decoration: none;
+
+}
+.btn{
+    font-size:large;
+    text-decoration: none;
+}
